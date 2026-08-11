@@ -1,0 +1,103 @@
+{
+  "blocks": {
+    "A": {
+      "by_health_status": {
+        "healthy": 87,
+        "monitor": 26,
+        "treatment_required": 7
+      },
+      "plants": 120
+    },
+    "B": {
+      "by_health_status": {
+        "healthy": 51,
+        "monitor": 7,
+        "treatment_required": 2
+      },
+      "plants": 60
+    }
+  },
+  "by_certification": {
+    "basic": 33,
+    "certified": 101,
+    "standard": 46
+  },
+  "by_health_status": {
+    "healthy": 138,
+    "monitor": 33,
+    "treatment_required": 9
+  },
+  "monitor_count": 33,
+  "plants_total": 180,
+  "registry": "vinemis-synthetic-plant-passports",
+  "suggested_tasks": [
+    {
+      "basis": "plant-level health status from field scans",
+      "plant_ids": [
+        "A-R01-P017",
+        "A-R02-P011",
+        "A-R02-P017",
+        "A-R03-P006",
+        "A-R03-P009",
+        "A-R04-P012",
+        "A-R05-P007",
+        "B-R02-P006",
+        "B-R04-P002"
+      ],
+      "scope": "9 plants flagged treatment_required",
+      "task": "Targeted treatment"
+    },
+    {
+      "basis": "early indicators; re-scan within two weeks",
+      "plant_ids": [
+        "A-R01-P007",
+        "A-R01-P011",
+        "A-R01-P012",
+        "A-R01-P013",
+        "A-R01-P014",
+        "A-R01-P015",
+        "A-R01-P016",
+        "A-R01-P018",
+        "A-R01-P019",
+        "A-R02-P009",
+        "A-R02-P012",
+        "A-R02-P016",
+        "A-R02-P019",
+        "A-R03-P001",
+        "A-R03-P010",
+        "A-R03-P015",
+        "A-R03-P017",
+        "A-R03-P018",
+        "A-R04-P005",
+        "A-R04-P015",
+        "A-R04-P017",
+        "A-R04-P019",
+        "A-R05-P001",
+        "A-R05-P009",
+        "A-R05-P012",
+        "A-R06-P006",
+        "B-R01-P006",
+        "B-R02-P002",
+        "B-R02-P003",
+        "B-R02-P007",
+        "B-R03-P001",
+        "B-R03-P008",
+        "B-R03-P012"
+      ],
+      "scope": "33 plants on the watch list",
+      "task": "Monitoring round"
+    },
+    {
+      "basis": "certification class on each plant passport",
+      "scope": "101 certified (blue-label) plants with complete eID traceability",
+      "task": "Compliance audit"
+    }
+  ],
+  "traceability_audit": {
+    "duplicate_eids": 0,
+    "plants_total": 180,
+    "plants_with_coordinates": 180,
+    "plants_with_eid": 180
+  },
+  "treatment_required_count": 9
+}

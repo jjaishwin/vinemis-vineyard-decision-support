@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata below.
+  The accompanying manuscript has no verified public venue, DOI, or
+  publication date; it is cited here as an uploaded manuscript.
+type: software
+title: "vinemis-vineyard-decision-support: synthetic geotagged plant-passport demo"
+abstract: >-
+  A standard-library-only Python demo that builds a synthetic vineyard
+  plant-passport registry (RFID-style 14-digit eIDs fused with
+  deterministic WGS84 coordinates), persists it to JSON or SQLite,
+  exports GeoJSON and KML, and produces a decision-support summary.
+authors:
+  - given-names: Jayant Jaishwin
+    family-names: Shanmugam Kavitha
+date-released: "2026-08-09"
+license: MIT
+preferred-citation:
+  type: manuscript
+  title: "VineMIS: Geotagged Plant Passports for Vineyard Decision Support"
+  authors:
+    - given-names: Jayant Jaishwin
+      family-names: Shanmugam Kavitha
+  notes: >-
+    Uploaded manuscript; no public venue, DOI, or publication date could be
+    verified as of 2026-08-09. Year, DOI, and URL fields are intentionally
+    omitted rather than invented.

@@ -1,0 +1,3253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>vinemis-synthetic-plant-passports</name>
+  <description>Synthetic virtual vineyard; CRS WGS84 (EPSG:4326)</description>
+  <Folder>
+    <name>Block A</name>
+    <Placemark>
+      <name>A-R01-P001</name>
+      <description>eID: 98200000000001
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000001</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P002</name>
+      <description>eID: 98200000000002
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000002</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20000994,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P003</name>
+      <description>eID: 98200000000003
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000003</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20001988,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P004</name>
+      <description>eID: 98200000000004
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000004</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20002982,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P005</name>
+      <description>eID: 98200000000005
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000005</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20003976,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P006</name>
+      <description>eID: 98200000000006
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000006</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000497,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P007</name>
+      <description>eID: 98200000000007
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000007</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20005964,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P008</name>
+      <description>eID: 98200000000008
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000008</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20006958,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P009</name>
+      <description>eID: 98200000000009
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000009</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20007952,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P010</name>
+      <description>eID: 98200000000010
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000010</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20008946,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P011</name>
+      <description>eID: 98200000000011
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000011</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000994,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P012</name>
+      <description>eID: 98200000000012
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000012</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20010934,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P013</name>
+      <description>eID: 98200000000013
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000013</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20011928,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P014</name>
+      <description>eID: 98200000000014
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000014</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20012922,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P015</name>
+      <description>eID: 98200000000015
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000015</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20013916,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P016</name>
+      <description>eID: 98200000000016
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000016</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2001491,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P017</name>
+      <description>eID: 98200000000017
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: treatment_required
+Treatments: 0</description>
+      <Style><IconStyle><color>ff3838d8</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000017</value></Data>
+        <Data name="health_status"><value>treatment_required</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20015904,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P018</name>
+      <description>eID: 98200000000018
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000018</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20016898,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P019</name>
+      <description>eID: 98200000000019
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000019</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20017892,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R01-P020</name>
+      <description>eID: 98200000000020
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000020</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20018887,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P001</name>
+      <description>eID: 98200000000021
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000021</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P002</name>
+      <description>eID: 98200000000022
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000022</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20000994,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P003</name>
+      <description>eID: 98200000000023
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000023</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20001988,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P004</name>
+      <description>eID: 98200000000024
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000024</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20002982,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P005</name>
+      <description>eID: 98200000000025
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000025</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20003976,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P006</name>
+      <description>eID: 98200000000026
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000026</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000497,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P007</name>
+      <description>eID: 98200000000027
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000027</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20005964,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P008</name>
+      <description>eID: 98200000000028
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000028</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20006958,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P009</name>
+      <description>eID: 98200000000029
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000029</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20007952,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P010</name>
+      <description>eID: 98200000000030
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000030</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20008946,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P011</name>
+      <description>eID: 98200000000031
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: treatment_required
+Treatments: 0</description>
+      <Style><IconStyle><color>ff3838d8</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000031</value></Data>
+        <Data name="health_status"><value>treatment_required</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000994,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P012</name>
+      <description>eID: 98200000000032
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000032</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20010934,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P013</name>
+      <description>eID: 98200000000033
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000033</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20011928,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P014</name>
+      <description>eID: 98200000000034
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000034</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20012922,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P015</name>
+      <description>eID: 98200000000035
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000035</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20013916,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P016</name>
+      <description>eID: 98200000000036
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: monitor
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000036</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2001491,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P017</name>
+      <description>eID: 98200000000037
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: treatment_required
+Treatments: 0</description>
+      <Style><IconStyle><color>ff3838d8</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000037</value></Data>
+        <Data name="health_status"><value>treatment_required</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20015904,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P018</name>
+      <description>eID: 98200000000038
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000038</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20016898,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P019</name>
+      <description>eID: 98200000000039
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000039</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20017892,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R02-P020</name>
+      <description>eID: 98200000000040
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000040</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20018887,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P001</name>
+      <description>eID: 98200000000041
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000041</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P002</name>
+      <description>eID: 98200000000042
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000042</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20000994,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P003</name>
+      <description>eID: 98200000000043
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000043</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20001988,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P004</name>
+      <description>eID: 98200000000044
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000044</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20002982,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P005</name>
+      <description>eID: 98200000000045
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000045</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20003976,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P006</name>
+      <description>eID: 98200000000046
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: treatment_required
+Treatments: 1</description>
+      <Style><IconStyle><color>ff3838d8</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000046</value></Data>
+        <Data name="health_status"><value>treatment_required</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000497,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P007</name>
+      <description>eID: 98200000000047
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000047</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20005964,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P008</name>
+      <description>eID: 98200000000048
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000048</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20006958,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P009</name>
+      <description>eID: 98200000000049
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: treatment_required
+Treatments: 0</description>
+      <Style><IconStyle><color>ff3838d8</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000049</value></Data>
+        <Data name="health_status"><value>treatment_required</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20007952,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P010</name>
+      <description>eID: 98200000000050
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: monitor
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000050</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20008946,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P011</name>
+      <description>eID: 98200000000051
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000051</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000994,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P012</name>
+      <description>eID: 98200000000052
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000052</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20010934,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P013</name>
+      <description>eID: 98200000000053
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000053</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20011928,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P014</name>
+      <description>eID: 98200000000054
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000054</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20012922,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P015</name>
+      <description>eID: 98200000000055
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000055</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20013916,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P016</name>
+      <description>eID: 98200000000056
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000056</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2001491,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P017</name>
+      <description>eID: 98200000000057
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000057</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20015904,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P018</name>
+      <description>eID: 98200000000058
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000058</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20016898,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P019</name>
+      <description>eID: 98200000000059
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000059</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20017892,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R03-P020</name>
+      <description>eID: 98200000000060
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000060</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20018887,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P001</name>
+      <description>eID: 98200000000061
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000061</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P002</name>
+      <description>eID: 98200000000062
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000062</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20000994,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P003</name>
+      <description>eID: 98200000000063
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000063</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20001988,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P004</name>
+      <description>eID: 98200000000064
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000064</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20002982,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P005</name>
+      <description>eID: 98200000000065
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000065</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20003976,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P006</name>
+      <description>eID: 98200000000066
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000066</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000497,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P007</name>
+      <description>eID: 98200000000067
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000067</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20005964,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P008</name>
+      <description>eID: 98200000000068
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000068</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20006958,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P009</name>
+      <description>eID: 98200000000069
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000069</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20007952,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P010</name>
+      <description>eID: 98200000000070
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000070</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20008946,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P011</name>
+      <description>eID: 98200000000071
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000071</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000994,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P012</name>
+      <description>eID: 98200000000072
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: treatment_required
+Treatments: 2</description>
+      <Style><IconStyle><color>ff3838d8</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000072</value></Data>
+        <Data name="health_status"><value>treatment_required</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20010934,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P013</name>
+      <description>eID: 98200000000073
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000073</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20011928,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P014</name>
+      <description>eID: 98200000000074
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000074</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20012922,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P015</name>
+      <description>eID: 98200000000075
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000075</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20013916,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P016</name>
+      <description>eID: 98200000000076
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000076</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2001491,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P017</name>
+      <description>eID: 98200000000077
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000077</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20015904,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P018</name>
+      <description>eID: 98200000000078
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000078</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20016898,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P019</name>
+      <description>eID: 98200000000079
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000079</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20017892,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R04-P020</name>
+      <description>eID: 98200000000080
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000080</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20018887,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P001</name>
+      <description>eID: 98200000000081
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000081</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P002</name>
+      <description>eID: 98200000000082
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000082</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20000994,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P003</name>
+      <description>eID: 98200000000083
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000083</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20001988,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P004</name>
+      <description>eID: 98200000000084
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000084</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20002982,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P005</name>
+      <description>eID: 98200000000085
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000085</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20003976,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P006</name>
+      <description>eID: 98200000000086
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000086</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000497,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P007</name>
+      <description>eID: 98200000000087
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: treatment_required
+Treatments: 0</description>
+      <Style><IconStyle><color>ff3838d8</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000087</value></Data>
+        <Data name="health_status"><value>treatment_required</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20005964,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P008</name>
+      <description>eID: 98200000000088
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000088</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20006958,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P009</name>
+      <description>eID: 98200000000089
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000089</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20007952,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P010</name>
+      <description>eID: 98200000000090
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 3</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000090</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20008946,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P011</name>
+      <description>eID: 98200000000091
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000091</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000994,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P012</name>
+      <description>eID: 98200000000092
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000092</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20010934,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P013</name>
+      <description>eID: 98200000000093
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000093</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20011928,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P014</name>
+      <description>eID: 98200000000094
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000094</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20012922,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P015</name>
+      <description>eID: 98200000000095
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000095</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20013916,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P016</name>
+      <description>eID: 98200000000096
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000096</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2001491,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P017</name>
+      <description>eID: 98200000000097
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000097</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20015904,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P018</name>
+      <description>eID: 98200000000098
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000098</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20016898,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P019</name>
+      <description>eID: 98200000000099
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000099</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20017892,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R05-P020</name>
+      <description>eID: 98200000000100
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000100</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20018887,43.70007546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P001</name>
+      <description>eID: 98200000000101
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000101</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P002</name>
+      <description>eID: 98200000000102
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000102</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20000994,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P003</name>
+      <description>eID: 98200000000103
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000103</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20001988,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P004</name>
+      <description>eID: 98200000000104
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000104</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20002982,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P005</name>
+      <description>eID: 98200000000105
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000105</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20003976,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P006</name>
+      <description>eID: 98200000000106
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000106</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000497,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P007</name>
+      <description>eID: 98200000000107
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000107</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20005964,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P008</name>
+      <description>eID: 98200000000108
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000108</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20006958,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P009</name>
+      <description>eID: 98200000000109
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000109</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20007952,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P010</name>
+      <description>eID: 98200000000110
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000110</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20008946,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P011</name>
+      <description>eID: 98200000000111
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000111</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2000994,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P012</name>
+      <description>eID: 98200000000112
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000112</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20010934,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P013</name>
+      <description>eID: 98200000000113
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000113</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20011928,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P014</name>
+      <description>eID: 98200000000114
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000114</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20012922,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P015</name>
+      <description>eID: 98200000000115
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000115</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20013916,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P016</name>
+      <description>eID: 98200000000116
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000116</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2001491,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P017</name>
+      <description>eID: 98200000000117
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000117</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20015904,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P018</name>
+      <description>eID: 98200000000118
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000118</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20016898,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P019</name>
+      <description>eID: 98200000000119
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000119</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20017892,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-R06-P020</name>
+      <description>eID: 98200000000120
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000120</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20018887,43.70009432,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Block B</name>
+    <Placemark>
+      <name>B-R01-P001</name>
+      <description>eID: 98200000000121
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000121</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20031312,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P002</name>
+      <description>eID: 98200000000122
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000122</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20032306,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P003</name>
+      <description>eID: 98200000000123
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000123</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.200333,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P004</name>
+      <description>eID: 98200000000124
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000124</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20034294,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P005</name>
+      <description>eID: 98200000000125
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000125</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20035288,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P006</name>
+      <description>eID: 98200000000126
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000126</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20036282,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P007</name>
+      <description>eID: 98200000000127
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000127</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20037276,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P008</name>
+      <description>eID: 98200000000128
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000128</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2003827,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P009</name>
+      <description>eID: 98200000000129
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000129</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20039264,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P010</name>
+      <description>eID: 98200000000130
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000130</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20040258,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P011</name>
+      <description>eID: 98200000000131
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000131</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20041252,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P012</name>
+      <description>eID: 98200000000132
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000132</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20042246,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P013</name>
+      <description>eID: 98200000000133
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000133</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2004324,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P014</name>
+      <description>eID: 98200000000134
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000134</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20044234,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R01-P015</name>
+      <description>eID: 98200000000135
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000135</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20045228,43.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P001</name>
+      <description>eID: 98200000000136
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000136</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20031312,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P002</name>
+      <description>eID: 98200000000137
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000137</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20032306,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P003</name>
+      <description>eID: 98200000000138
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000138</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.200333,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P004</name>
+      <description>eID: 98200000000139
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000139</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20034294,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P005</name>
+      <description>eID: 98200000000140
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000140</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20035288,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P006</name>
+      <description>eID: 98200000000141
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: treatment_required
+Treatments: 0</description>
+      <Style><IconStyle><color>ff3838d8</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000141</value></Data>
+        <Data name="health_status"><value>treatment_required</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20036282,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P007</name>
+      <description>eID: 98200000000142
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000142</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20037276,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P008</name>
+      <description>eID: 98200000000143
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000143</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2003827,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P009</name>
+      <description>eID: 98200000000144
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000144</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20039264,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P010</name>
+      <description>eID: 98200000000145
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000145</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20040258,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P011</name>
+      <description>eID: 98200000000146
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000146</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20041252,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P012</name>
+      <description>eID: 98200000000147
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000147</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20042246,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P013</name>
+      <description>eID: 98200000000148
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000148</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2004324,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P014</name>
+      <description>eID: 98200000000149
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000149</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20044234,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R02-P015</name>
+      <description>eID: 98200000000150
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000150</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20045228,43.70001886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P001</name>
+      <description>eID: 98200000000151
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000151</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20031312,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P002</name>
+      <description>eID: 98200000000152
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000152</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20032306,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P003</name>
+      <description>eID: 98200000000153
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000153</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.200333,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P004</name>
+      <description>eID: 98200000000154
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000154</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20034294,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P005</name>
+      <description>eID: 98200000000155
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000155</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20035288,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P006</name>
+      <description>eID: 98200000000156
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000156</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20036282,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P007</name>
+      <description>eID: 98200000000157
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000157</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20037276,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P008</name>
+      <description>eID: 98200000000158
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000158</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2003827,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P009</name>
+      <description>eID: 98200000000159
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000159</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20039264,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P010</name>
+      <description>eID: 98200000000160
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000160</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20040258,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P011</name>
+      <description>eID: 98200000000161
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000161</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20041252,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P012</name>
+      <description>eID: 98200000000162
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: monitor
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00c8ff</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000162</value></Data>
+        <Data name="health_status"><value>monitor</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20042246,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P013</name>
+      <description>eID: 98200000000163
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000163</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2004324,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P014</name>
+      <description>eID: 98200000000164
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000164</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20044234,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R03-P015</name>
+      <description>eID: 98200000000165
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000165</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20045228,43.70003773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P001</name>
+      <description>eID: 98200000000166
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000166</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20031312,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P002</name>
+      <description>eID: 98200000000167
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: treatment_required
+Treatments: 0</description>
+      <Style><IconStyle><color>ff3838d8</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000167</value></Data>
+        <Data name="health_status"><value>treatment_required</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20032306,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P003</name>
+      <description>eID: 98200000000168
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000168</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.200333,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P004</name>
+      <description>eID: 98200000000169
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000169</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20034294,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P005</name>
+      <description>eID: 98200000000170
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 2</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000170</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20035288,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P006</name>
+      <description>eID: 98200000000171
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000171</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20036282,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P007</name>
+      <description>eID: 98200000000172
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000172</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20037276,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P008</name>
+      <description>eID: 98200000000173
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000173</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2003827,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P009</name>
+      <description>eID: 98200000000174
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000174</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20039264,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P010</name>
+      <description>eID: 98200000000175
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000175</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20040258,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P011</name>
+      <description>eID: 98200000000176
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000176</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20041252,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P012</name>
+      <description>eID: 98200000000177
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000177</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20042246,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P013</name>
+      <description>eID: 98200000000178
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: standard (yellow label)
+Health status: healthy
+Treatments: 1</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000178</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>standard</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.2004324,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P014</name>
+      <description>eID: 98200000000179
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: certified (blue label)
+Health status: healthy
+Treatments: 0</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000179</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>certified</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20044234,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-R04-P015</name>
+      <description>eID: 98200000000180
+Variety: Sangiovese (clone I-SS-F9-A5-48)
+Rootstock: 1103 Paulsen
+Certification: basic (white label)
+Health status: healthy
+Treatments: 3</description>
+      <Style><IconStyle><color>ff00a838</color></IconStyle></Style>
+      <ExtendedData>
+        <Data name="eid"><value>98200000000180</value></Data>
+        <Data name="health_status"><value>healthy</value></Data>
+        <Data name="certification"><value>basic</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>11.20045228,43.70005659,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

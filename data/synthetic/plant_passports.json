@@ -1,0 +1,3920 @@
+{
+  "coordinate_reference_system": "WGS84 (EPSG:4326)",
+  "origin": {
+    "latitude": 43.7,
+    "longitude": 11.2
+  },
+  "plants": [
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000001",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.2,
+      "plant_id": "A-R01-P001",
+      "planting_year": 2007,
+      "position_in_row": 1,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000002",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20000994,
+      "plant_id": "A-R01-P002",
+      "planting_year": 2007,
+      "position_in_row": 2,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000003",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20001988,
+      "plant_id": "A-R01-P003",
+      "planting_year": 2007,
+      "position_in_row": 3,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000004",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20002982,
+      "plant_id": "A-R01-P004",
+      "planting_year": 2007,
+      "position_in_row": 4,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000005",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20003976,
+      "plant_id": "A-R01-P005",
+      "planting_year": 2007,
+      "position_in_row": 5,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000006",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.2000497,
+      "plant_id": "A-R01-P006",
+      "planting_year": 2007,
+      "position_in_row": 6,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000007",
+      "health_status": "monitor",
+      "latitude": 43.7,
+      "longitude": 11.20005964,
+      "plant_id": "A-R01-P007",
+      "planting_year": 2007,
+      "position_in_row": 7,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000008",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20006958,
+      "plant_id": "A-R01-P008",
+      "planting_year": 2007,
+      "position_in_row": 8,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000009",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20007952,
+      "plant_id": "A-R01-P009",
+      "planting_year": 2007,
+      "position_in_row": 9,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000010",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20008946,
+      "plant_id": "A-R01-P010",
+      "planting_year": 2007,
+      "position_in_row": 10,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000011",
+      "health_status": "monitor",
+      "latitude": 43.7,
+      "longitude": 11.2000994,
+      "plant_id": "A-R01-P011",
+      "planting_year": 2007,
+      "position_in_row": 11,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000012",
+      "health_status": "monitor",
+      "latitude": 43.7,
+      "longitude": 11.20010934,
+      "plant_id": "A-R01-P012",
+      "planting_year": 2007,
+      "position_in_row": 12,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000013",
+      "health_status": "monitor",
+      "latitude": 43.7,
+      "longitude": 11.20011928,
+      "plant_id": "A-R01-P013",
+      "planting_year": 2007,
+      "position_in_row": 13,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000014",
+      "health_status": "monitor",
+      "latitude": 43.7,
+      "longitude": 11.20012922,
+      "plant_id": "A-R01-P014",
+      "planting_year": 2007,
+      "position_in_row": 14,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000015",
+      "health_status": "monitor",
+      "latitude": 43.7,
+      "longitude": 11.20013916,
+      "plant_id": "A-R01-P015",
+      "planting_year": 2007,
+      "position_in_row": 15,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000016",
+      "health_status": "monitor",
+      "latitude": 43.7,
+      "longitude": 11.2001491,
+      "plant_id": "A-R01-P016",
+      "planting_year": 2007,
+      "position_in_row": 16,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000017",
+      "health_status": "treatment_required",
+      "latitude": 43.7,
+      "longitude": 11.20015904,
+      "plant_id": "A-R01-P017",
+      "planting_year": 2007,
+      "position_in_row": 17,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000018",
+      "health_status": "monitor",
+      "latitude": 43.7,
+      "longitude": 11.20016898,
+      "plant_id": "A-R01-P018",
+      "planting_year": 2007,
+      "position_in_row": 18,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000019",
+      "health_status": "monitor",
+      "latitude": 43.7,
+      "longitude": 11.20017892,
+      "plant_id": "A-R01-P019",
+      "planting_year": 2007,
+      "position_in_row": 19,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000020",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20018887,
+      "plant_id": "A-R01-P020",
+      "planting_year": 2007,
+      "position_in_row": 20,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000021",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.2,
+      "plant_id": "A-R02-P001",
+      "planting_year": 2007,
+      "position_in_row": 1,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000022",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20000994,
+      "plant_id": "A-R02-P002",
+      "planting_year": 2007,
+      "position_in_row": 2,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000023",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20001988,
+      "plant_id": "A-R02-P003",
+      "planting_year": 2007,
+      "position_in_row": 3,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000024",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20002982,
+      "plant_id": "A-R02-P004",
+      "planting_year": 2007,
+      "position_in_row": 4,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000025",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20003976,
+      "plant_id": "A-R02-P005",
+      "planting_year": 2007,
+      "position_in_row": 5,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000026",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.2000497,
+      "plant_id": "A-R02-P006",
+      "planting_year": 2007,
+      "position_in_row": 6,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000027",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20005964,
+      "plant_id": "A-R02-P007",
+      "planting_year": 2007,
+      "position_in_row": 7,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000028",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20006958,
+      "plant_id": "A-R02-P008",
+      "planting_year": 2007,
+      "position_in_row": 8,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000029",
+      "health_status": "monitor",
+      "latitude": 43.70001886,
+      "longitude": 11.20007952,
+      "plant_id": "A-R02-P009",
+      "planting_year": 2007,
+      "position_in_row": 9,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000030",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20008946,
+      "plant_id": "A-R02-P010",
+      "planting_year": 2007,
+      "position_in_row": 10,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000031",
+      "health_status": "treatment_required",
+      "latitude": 43.70001886,
+      "longitude": 11.2000994,
+      "plant_id": "A-R02-P011",
+      "planting_year": 2007,
+      "position_in_row": 11,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000032",
+      "health_status": "monitor",
+      "latitude": 43.70001886,
+      "longitude": 11.20010934,
+      "plant_id": "A-R02-P012",
+      "planting_year": 2007,
+      "position_in_row": 12,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000033",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20011928,
+      "plant_id": "A-R02-P013",
+      "planting_year": 2007,
+      "position_in_row": 13,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000034",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20012922,
+      "plant_id": "A-R02-P014",
+      "planting_year": 2007,
+      "position_in_row": 14,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000035",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20013916,
+      "plant_id": "A-R02-P015",
+      "planting_year": 2007,
+      "position_in_row": 15,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000036",
+      "health_status": "monitor",
+      "latitude": 43.70001886,
+      "longitude": 11.2001491,
+      "plant_id": "A-R02-P016",
+      "planting_year": 2007,
+      "position_in_row": 16,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000037",
+      "health_status": "treatment_required",
+      "latitude": 43.70001886,
+      "longitude": 11.20015904,
+      "plant_id": "A-R02-P017",
+      "planting_year": 2007,
+      "position_in_row": 17,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000038",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20016898,
+      "plant_id": "A-R02-P018",
+      "planting_year": 2007,
+      "position_in_row": 18,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000039",
+      "health_status": "monitor",
+      "latitude": 43.70001886,
+      "longitude": 11.20017892,
+      "plant_id": "A-R02-P019",
+      "planting_year": 2007,
+      "position_in_row": 19,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000040",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20018887,
+      "plant_id": "A-R02-P020",
+      "planting_year": 2007,
+      "position_in_row": 20,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000041",
+      "health_status": "monitor",
+      "latitude": 43.70003773,
+      "longitude": 11.2,
+      "plant_id": "A-R03-P001",
+      "planting_year": 2007,
+      "position_in_row": 1,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000042",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20000994,
+      "plant_id": "A-R03-P002",
+      "planting_year": 2007,
+      "position_in_row": 2,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000043",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20001988,
+      "plant_id": "A-R03-P003",
+      "planting_year": 2007,
+      "position_in_row": 3,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000044",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20002982,
+      "plant_id": "A-R03-P004",
+      "planting_year": 2007,
+      "position_in_row": 4,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000045",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20003976,
+      "plant_id": "A-R03-P005",
+      "planting_year": 2007,
+      "position_in_row": 5,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000046",
+      "health_status": "treatment_required",
+      "latitude": 43.70003773,
+      "longitude": 11.2000497,
+      "plant_id": "A-R03-P006",
+      "planting_year": 2007,
+      "position_in_row": 6,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000047",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20005964,
+      "plant_id": "A-R03-P007",
+      "planting_year": 2007,
+      "position_in_row": 7,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000048",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20006958,
+      "plant_id": "A-R03-P008",
+      "planting_year": 2007,
+      "position_in_row": 8,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000049",
+      "health_status": "treatment_required",
+      "latitude": 43.70003773,
+      "longitude": 11.20007952,
+      "plant_id": "A-R03-P009",
+      "planting_year": 2007,
+      "position_in_row": 9,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000050",
+      "health_status": "monitor",
+      "latitude": 43.70003773,
+      "longitude": 11.20008946,
+      "plant_id": "A-R03-P010",
+      "planting_year": 2007,
+      "position_in_row": 10,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000051",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.2000994,
+      "plant_id": "A-R03-P011",
+      "planting_year": 2007,
+      "position_in_row": 11,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000052",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20010934,
+      "plant_id": "A-R03-P012",
+      "planting_year": 2007,
+      "position_in_row": 12,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000053",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20011928,
+      "plant_id": "A-R03-P013",
+      "planting_year": 2007,
+      "position_in_row": 13,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000054",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20012922,
+      "plant_id": "A-R03-P014",
+      "planting_year": 2007,
+      "position_in_row": 14,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000055",
+      "health_status": "monitor",
+      "latitude": 43.70003773,
+      "longitude": 11.20013916,
+      "plant_id": "A-R03-P015",
+      "planting_year": 2007,
+      "position_in_row": 15,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000056",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.2001491,
+      "plant_id": "A-R03-P016",
+      "planting_year": 2007,
+      "position_in_row": 16,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000057",
+      "health_status": "monitor",
+      "latitude": 43.70003773,
+      "longitude": 11.20015904,
+      "plant_id": "A-R03-P017",
+      "planting_year": 2007,
+      "position_in_row": 17,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000058",
+      "health_status": "monitor",
+      "latitude": 43.70003773,
+      "longitude": 11.20016898,
+      "plant_id": "A-R03-P018",
+      "planting_year": 2007,
+      "position_in_row": 18,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000059",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20017892,
+      "plant_id": "A-R03-P019",
+      "planting_year": 2007,
+      "position_in_row": 19,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000060",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20018887,
+      "plant_id": "A-R03-P020",
+      "planting_year": 2007,
+      "position_in_row": 20,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000061",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.2,
+      "plant_id": "A-R04-P001",
+      "planting_year": 2007,
+      "position_in_row": 1,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000062",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20000994,
+      "plant_id": "A-R04-P002",
+      "planting_year": 2007,
+      "position_in_row": 2,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000063",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20001988,
+      "plant_id": "A-R04-P003",
+      "planting_year": 2007,
+      "position_in_row": 3,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000064",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20002982,
+      "plant_id": "A-R04-P004",
+      "planting_year": 2007,
+      "position_in_row": 4,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000065",
+      "health_status": "monitor",
+      "latitude": 43.70005659,
+      "longitude": 11.20003976,
+      "plant_id": "A-R04-P005",
+      "planting_year": 2007,
+      "position_in_row": 5,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000066",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.2000497,
+      "plant_id": "A-R04-P006",
+      "planting_year": 2007,
+      "position_in_row": 6,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000067",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20005964,
+      "plant_id": "A-R04-P007",
+      "planting_year": 2007,
+      "position_in_row": 7,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000068",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20006958,
+      "plant_id": "A-R04-P008",
+      "planting_year": 2007,
+      "position_in_row": 8,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000069",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20007952,
+      "plant_id": "A-R04-P009",
+      "planting_year": 2007,
+      "position_in_row": 9,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000070",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20008946,
+      "plant_id": "A-R04-P010",
+      "planting_year": 2007,
+      "position_in_row": 10,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000071",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.2000994,
+      "plant_id": "A-R04-P011",
+      "planting_year": 2007,
+      "position_in_row": 11,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000072",
+      "health_status": "treatment_required",
+      "latitude": 43.70005659,
+      "longitude": 11.20010934,
+      "plant_id": "A-R04-P012",
+      "planting_year": 2007,
+      "position_in_row": 12,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000073",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20011928,
+      "plant_id": "A-R04-P013",
+      "planting_year": 2007,
+      "position_in_row": 13,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000074",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20012922,
+      "plant_id": "A-R04-P014",
+      "planting_year": 2007,
+      "position_in_row": 14,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000075",
+      "health_status": "monitor",
+      "latitude": 43.70005659,
+      "longitude": 11.20013916,
+      "plant_id": "A-R04-P015",
+      "planting_year": 2007,
+      "position_in_row": 15,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000076",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.2001491,
+      "plant_id": "A-R04-P016",
+      "planting_year": 2007,
+      "position_in_row": 16,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000077",
+      "health_status": "monitor",
+      "latitude": 43.70005659,
+      "longitude": 11.20015904,
+      "plant_id": "A-R04-P017",
+      "planting_year": 2007,
+      "position_in_row": 17,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000078",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20016898,
+      "plant_id": "A-R04-P018",
+      "planting_year": 2007,
+      "position_in_row": 18,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000079",
+      "health_status": "monitor",
+      "latitude": 43.70005659,
+      "longitude": 11.20017892,
+      "plant_id": "A-R04-P019",
+      "planting_year": 2007,
+      "position_in_row": 19,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000080",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20018887,
+      "plant_id": "A-R04-P020",
+      "planting_year": 2007,
+      "position_in_row": 20,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000081",
+      "health_status": "monitor",
+      "latitude": 43.70007546,
+      "longitude": 11.2,
+      "plant_id": "A-R05-P001",
+      "planting_year": 2007,
+      "position_in_row": 1,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000082",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20000994,
+      "plant_id": "A-R05-P002",
+      "planting_year": 2007,
+      "position_in_row": 2,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000083",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20001988,
+      "plant_id": "A-R05-P003",
+      "planting_year": 2007,
+      "position_in_row": 3,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000084",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20002982,
+      "plant_id": "A-R05-P004",
+      "planting_year": 2007,
+      "position_in_row": 4,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000085",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20003976,
+      "plant_id": "A-R05-P005",
+      "planting_year": 2007,
+      "position_in_row": 5,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000086",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.2000497,
+      "plant_id": "A-R05-P006",
+      "planting_year": 2007,
+      "position_in_row": 6,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000087",
+      "health_status": "treatment_required",
+      "latitude": 43.70007546,
+      "longitude": 11.20005964,
+      "plant_id": "A-R05-P007",
+      "planting_year": 2007,
+      "position_in_row": 7,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000088",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20006958,
+      "plant_id": "A-R05-P008",
+      "planting_year": 2007,
+      "position_in_row": 8,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000089",
+      "health_status": "monitor",
+      "latitude": 43.70007546,
+      "longitude": 11.20007952,
+      "plant_id": "A-R05-P009",
+      "planting_year": 2007,
+      "position_in_row": 9,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000090",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20008946,
+      "plant_id": "A-R05-P010",
+      "planting_year": 2007,
+      "position_in_row": 10,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000091",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.2000994,
+      "plant_id": "A-R05-P011",
+      "planting_year": 2007,
+      "position_in_row": 11,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000092",
+      "health_status": "monitor",
+      "latitude": 43.70007546,
+      "longitude": 11.20010934,
+      "plant_id": "A-R05-P012",
+      "planting_year": 2007,
+      "position_in_row": 12,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000093",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20011928,
+      "plant_id": "A-R05-P013",
+      "planting_year": 2007,
+      "position_in_row": 13,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000094",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20012922,
+      "plant_id": "A-R05-P014",
+      "planting_year": 2007,
+      "position_in_row": 14,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000095",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20013916,
+      "plant_id": "A-R05-P015",
+      "planting_year": 2007,
+      "position_in_row": 15,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000096",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.2001491,
+      "plant_id": "A-R05-P016",
+      "planting_year": 2007,
+      "position_in_row": 16,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000097",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20015904,
+      "plant_id": "A-R05-P017",
+      "planting_year": 2007,
+      "position_in_row": 17,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000098",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20016898,
+      "plant_id": "A-R05-P018",
+      "planting_year": 2007,
+      "position_in_row": 18,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000099",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20017892,
+      "plant_id": "A-R05-P019",
+      "planting_year": 2007,
+      "position_in_row": 19,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000100",
+      "health_status": "healthy",
+      "latitude": 43.70007546,
+      "longitude": 11.20018887,
+      "plant_id": "A-R05-P020",
+      "planting_year": 2007,
+      "position_in_row": 20,
+      "rootstock": "1103 Paulsen",
+      "row": 5,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000101",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.2,
+      "plant_id": "A-R06-P001",
+      "planting_year": 2007,
+      "position_in_row": 1,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000102",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20000994,
+      "plant_id": "A-R06-P002",
+      "planting_year": 2007,
+      "position_in_row": 2,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000103",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20001988,
+      "plant_id": "A-R06-P003",
+      "planting_year": 2007,
+      "position_in_row": 3,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000104",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20002982,
+      "plant_id": "A-R06-P004",
+      "planting_year": 2007,
+      "position_in_row": 4,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000105",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20003976,
+      "plant_id": "A-R06-P005",
+      "planting_year": 2007,
+      "position_in_row": 5,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000106",
+      "health_status": "monitor",
+      "latitude": 43.70009432,
+      "longitude": 11.2000497,
+      "plant_id": "A-R06-P006",
+      "planting_year": 2007,
+      "position_in_row": 6,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000107",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20005964,
+      "plant_id": "A-R06-P007",
+      "planting_year": 2007,
+      "position_in_row": 7,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000108",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20006958,
+      "plant_id": "A-R06-P008",
+      "planting_year": 2007,
+      "position_in_row": 8,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000109",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20007952,
+      "plant_id": "A-R06-P009",
+      "planting_year": 2007,
+      "position_in_row": 9,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000110",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20008946,
+      "plant_id": "A-R06-P010",
+      "planting_year": 2007,
+      "position_in_row": 10,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000111",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.2000994,
+      "plant_id": "A-R06-P011",
+      "planting_year": 2007,
+      "position_in_row": 11,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000112",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20010934,
+      "plant_id": "A-R06-P012",
+      "planting_year": 2007,
+      "position_in_row": 12,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000113",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20011928,
+      "plant_id": "A-R06-P013",
+      "planting_year": 2007,
+      "position_in_row": 13,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000114",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20012922,
+      "plant_id": "A-R06-P014",
+      "planting_year": 2007,
+      "position_in_row": 14,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000115",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20013916,
+      "plant_id": "A-R06-P015",
+      "planting_year": 2007,
+      "position_in_row": 15,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000116",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.2001491,
+      "plant_id": "A-R06-P016",
+      "planting_year": 2007,
+      "position_in_row": 16,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000117",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20015904,
+      "plant_id": "A-R06-P017",
+      "planting_year": 2007,
+      "position_in_row": 17,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000118",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20016898,
+      "plant_id": "A-R06-P018",
+      "planting_year": 2007,
+      "position_in_row": 18,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000119",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20017892,
+      "plant_id": "A-R06-P019",
+      "planting_year": 2007,
+      "position_in_row": 19,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "A",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000120",
+      "health_status": "healthy",
+      "latitude": 43.70009432,
+      "longitude": 11.20018887,
+      "plant_id": "A-R06-P020",
+      "planting_year": 2007,
+      "position_in_row": 20,
+      "rootstock": "1103 Paulsen",
+      "row": 6,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000121",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20031312,
+      "plant_id": "B-R01-P001",
+      "planting_year": 2007,
+      "position_in_row": 1,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000122",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20032306,
+      "plant_id": "B-R01-P002",
+      "planting_year": 2007,
+      "position_in_row": 2,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000123",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.200333,
+      "plant_id": "B-R01-P003",
+      "planting_year": 2007,
+      "position_in_row": 3,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000124",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20034294,
+      "plant_id": "B-R01-P004",
+      "planting_year": 2007,
+      "position_in_row": 4,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000125",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20035288,
+      "plant_id": "B-R01-P005",
+      "planting_year": 2007,
+      "position_in_row": 5,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000126",
+      "health_status": "monitor",
+      "latitude": 43.7,
+      "longitude": 11.20036282,
+      "plant_id": "B-R01-P006",
+      "planting_year": 2007,
+      "position_in_row": 6,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000127",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20037276,
+      "plant_id": "B-R01-P007",
+      "planting_year": 2007,
+      "position_in_row": 7,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000128",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.2003827,
+      "plant_id": "B-R01-P008",
+      "planting_year": 2007,
+      "position_in_row": 8,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000129",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20039264,
+      "plant_id": "B-R01-P009",
+      "planting_year": 2007,
+      "position_in_row": 9,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000130",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20040258,
+      "plant_id": "B-R01-P010",
+      "planting_year": 2007,
+      "position_in_row": 10,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000131",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20041252,
+      "plant_id": "B-R01-P011",
+      "planting_year": 2007,
+      "position_in_row": 11,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000132",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20042246,
+      "plant_id": "B-R01-P012",
+      "planting_year": 2007,
+      "position_in_row": 12,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000133",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.2004324,
+      "plant_id": "B-R01-P013",
+      "planting_year": 2007,
+      "position_in_row": 13,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000134",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20044234,
+      "plant_id": "B-R01-P014",
+      "planting_year": 2007,
+      "position_in_row": 14,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000135",
+      "health_status": "healthy",
+      "latitude": 43.7,
+      "longitude": 11.20045228,
+      "plant_id": "B-R01-P015",
+      "planting_year": 2007,
+      "position_in_row": 15,
+      "rootstock": "1103 Paulsen",
+      "row": 1,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000136",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20031312,
+      "plant_id": "B-R02-P001",
+      "planting_year": 2007,
+      "position_in_row": 1,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000137",
+      "health_status": "monitor",
+      "latitude": 43.70001886,
+      "longitude": 11.20032306,
+      "plant_id": "B-R02-P002",
+      "planting_year": 2007,
+      "position_in_row": 2,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000138",
+      "health_status": "monitor",
+      "latitude": 43.70001886,
+      "longitude": 11.200333,
+      "plant_id": "B-R02-P003",
+      "planting_year": 2007,
+      "position_in_row": 3,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000139",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20034294,
+      "plant_id": "B-R02-P004",
+      "planting_year": 2007,
+      "position_in_row": 4,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000140",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20035288,
+      "plant_id": "B-R02-P005",
+      "planting_year": 2007,
+      "position_in_row": 5,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000141",
+      "health_status": "treatment_required",
+      "latitude": 43.70001886,
+      "longitude": 11.20036282,
+      "plant_id": "B-R02-P006",
+      "planting_year": 2007,
+      "position_in_row": 6,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000142",
+      "health_status": "monitor",
+      "latitude": 43.70001886,
+      "longitude": 11.20037276,
+      "plant_id": "B-R02-P007",
+      "planting_year": 2007,
+      "position_in_row": 7,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000143",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.2003827,
+      "plant_id": "B-R02-P008",
+      "planting_year": 2007,
+      "position_in_row": 8,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000144",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20039264,
+      "plant_id": "B-R02-P009",
+      "planting_year": 2007,
+      "position_in_row": 9,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000145",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20040258,
+      "plant_id": "B-R02-P010",
+      "planting_year": 2007,
+      "position_in_row": 10,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000146",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20041252,
+      "plant_id": "B-R02-P011",
+      "planting_year": 2007,
+      "position_in_row": 11,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000147",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20042246,
+      "plant_id": "B-R02-P012",
+      "planting_year": 2007,
+      "position_in_row": 12,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000148",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.2004324,
+      "plant_id": "B-R02-P013",
+      "planting_year": 2007,
+      "position_in_row": 13,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000149",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20044234,
+      "plant_id": "B-R02-P014",
+      "planting_year": 2007,
+      "position_in_row": 14,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000150",
+      "health_status": "healthy",
+      "latitude": 43.70001886,
+      "longitude": 11.20045228,
+      "plant_id": "B-R02-P015",
+      "planting_year": 2007,
+      "position_in_row": 15,
+      "rootstock": "1103 Paulsen",
+      "row": 2,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000151",
+      "health_status": "monitor",
+      "latitude": 43.70003773,
+      "longitude": 11.20031312,
+      "plant_id": "B-R03-P001",
+      "planting_year": 2007,
+      "position_in_row": 1,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000152",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20032306,
+      "plant_id": "B-R03-P002",
+      "planting_year": 2007,
+      "position_in_row": 2,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000153",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.200333,
+      "plant_id": "B-R03-P003",
+      "planting_year": 2007,
+      "position_in_row": 3,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000154",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20034294,
+      "plant_id": "B-R03-P004",
+      "planting_year": 2007,
+      "position_in_row": 4,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000155",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20035288,
+      "plant_id": "B-R03-P005",
+      "planting_year": 2007,
+      "position_in_row": 5,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000156",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20036282,
+      "plant_id": "B-R03-P006",
+      "planting_year": 2007,
+      "position_in_row": 6,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000157",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20037276,
+      "plant_id": "B-R03-P007",
+      "planting_year": 2007,
+      "position_in_row": 7,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000158",
+      "health_status": "monitor",
+      "latitude": 43.70003773,
+      "longitude": 11.2003827,
+      "plant_id": "B-R03-P008",
+      "planting_year": 2007,
+      "position_in_row": 8,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000159",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20039264,
+      "plant_id": "B-R03-P009",
+      "planting_year": 2007,
+      "position_in_row": 9,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000160",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20040258,
+      "plant_id": "B-R03-P010",
+      "planting_year": 2007,
+      "position_in_row": 10,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000161",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20041252,
+      "plant_id": "B-R03-P011",
+      "planting_year": 2007,
+      "position_in_row": 11,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000162",
+      "health_status": "monitor",
+      "latitude": 43.70003773,
+      "longitude": 11.20042246,
+      "plant_id": "B-R03-P012",
+      "planting_year": 2007,
+      "position_in_row": 12,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000163",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.2004324,
+      "plant_id": "B-R03-P013",
+      "planting_year": 2007,
+      "position_in_row": 13,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000164",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20044234,
+      "plant_id": "B-R03-P014",
+      "planting_year": 2007,
+      "position_in_row": 14,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000165",
+      "health_status": "healthy",
+      "latitude": 43.70003773,
+      "longitude": 11.20045228,
+      "plant_id": "B-R03-P015",
+      "planting_year": 2007,
+      "position_in_row": 15,
+      "rootstock": "1103 Paulsen",
+      "row": 3,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000166",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20031312,
+      "plant_id": "B-R04-P001",
+      "planting_year": 2007,
+      "position_in_row": 1,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000167",
+      "health_status": "treatment_required",
+      "latitude": 43.70005659,
+      "longitude": 11.20032306,
+      "plant_id": "B-R04-P002",
+      "planting_year": 2007,
+      "position_in_row": 2,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000168",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.200333,
+      "plant_id": "B-R04-P003",
+      "planting_year": 2007,
+      "position_in_row": 3,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000169",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20034294,
+      "plant_id": "B-R04-P004",
+      "planting_year": 2007,
+      "position_in_row": 4,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000170",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20035288,
+      "plant_id": "B-R04-P005",
+      "planting_year": 2007,
+      "position_in_row": 5,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000171",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20036282,
+      "plant_id": "B-R04-P006",
+      "planting_year": 2007,
+      "position_in_row": 6,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000172",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20037276,
+      "plant_id": "B-R04-P007",
+      "planting_year": 2007,
+      "position_in_row": 7,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000173",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.2003827,
+      "plant_id": "B-R04-P008",
+      "planting_year": 2007,
+      "position_in_row": 8,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000174",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20039264,
+      "plant_id": "B-R04-P009",
+      "planting_year": 2007,
+      "position_in_row": 9,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000175",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20040258,
+      "plant_id": "B-R04-P010",
+      "planting_year": 2007,
+      "position_in_row": 10,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000176",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20041252,
+      "plant_id": "B-R04-P011",
+      "planting_year": 2007,
+      "position_in_row": 11,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000177",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20042246,
+      "plant_id": "B-R04-P012",
+      "planting_year": 2007,
+      "position_in_row": 12,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "standard",
+      "certification_label": "yellow",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000178",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.2004324,
+      "plant_id": "B-R04-P013",
+      "planting_year": 2007,
+      "position_in_row": 13,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        }
+      ],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "certified",
+      "certification_label": "blue",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000179",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20044234,
+      "plant_id": "B-R04-P014",
+      "planting_year": 2007,
+      "position_in_row": 14,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [],
+      "variety": "Sangiovese"
+    },
+    {
+      "block": "B",
+      "certification": "basic",
+      "certification_label": "white",
+      "clone": "I-SS-F9-A5-48",
+      "eid": "98200000000180",
+      "health_status": "healthy",
+      "latitude": 43.70005659,
+      "longitude": 11.20045228,
+      "plant_id": "B-R04-P015",
+      "planting_year": 2007,
+      "position_in_row": 15,
+      "rootstock": "1103 Paulsen",
+      "row": 4,
+      "treatments": [
+        {
+          "date": "2026-03-20",
+          "operation": "winter pruning",
+          "type": "agronomic"
+        },
+        {
+          "date": "2026-04-15",
+          "operation": "sulfur treatment",
+          "type": "phytosanitary"
+        },
+        {
+          "date": "2026-05-10",
+          "operation": "copper treatment",
+          "type": "phytosanitary"
+        }
+      ],
+      "variety": "Sangiovese"
+    }
+  ],
+  "registry": "vinemis-synthetic-plant-passports",
+  "spacing_m": {
+    "between_plants": 0.8,
+    "between_rows": 2.1
+  }
+}
